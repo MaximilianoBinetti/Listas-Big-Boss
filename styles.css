@@ -1,0 +1,23 @@
+body {
+    background-image: url(https://i.gifer.com/5c9H.gif);
+    background-size: cover;
+}
+
+.text {
+    color: azure;
+}
+
+.passed :hover {
+    color: green;
+    transition: 0.6s;
+}
+
+.failed :hover {
+    color: red;
+    transition: 0.6s;
+}
+
+
+
+
+
